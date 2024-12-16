@@ -1,0 +1,6 @@
+1. go to official GitHub page of Tesseract-OCR ( https://github.com/tesseract-ocr/tesseract )
+2. scroll down to "Installing Tesseract" section.
+3. click on "Install Tesseract via pre-built binary package" 
+4. scroll down to "Windows" section, click on "Tesseract at UB Mannheim"
+5. Install 34 bit or 64 bit based on your system.
+5. Add Tesseract-OCR file path to your environement variables.

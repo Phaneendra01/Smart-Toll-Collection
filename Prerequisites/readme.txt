@@ -1,0 +1,1 @@
+1. make sure you have installed python interpreter from your browser.

@@ -1,0 +1,5 @@
+1. pip install openpyxl
+2. pip install opencv-python
+3. pip install tesseract
+4. pip install pytesseract
+5. pip install reportlab
